@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THE-YOLF
 - 👀 I’m interested in TTRPGs and Game Dev
-- 🌱 I’m currently learning Software development and Unity
+- 🌱 I’m currently learning Software development and Godot
 - 📫 How to reach me: \_yolf_ on Discord
 
 
